@@ -1,0 +1,31 @@
+{
+    "cities": [
+      {
+        "name": "New York",
+        "country": "USA",
+        "population": 8175133,
+        "details": {
+          "areaSqKm": 468.9,
+          "famousLandmark": "Statue of Liberty"
+        }
+      },
+      {
+        "name": "Tokyo",
+        "country": "Japan",
+        "population": 37833000,
+        "details": {
+          "areaSqKm": 2190.93,
+          "famousLandmark": "Tokyo Tower"
+        }
+      },
+      {
+        "name": "London",
+        "country": "UK",
+        "population": 8982256,
+        "details": {
+          "areaSqKm": 1572,
+          "famousLandmark": "Big Ben"
+        }
+      }
+    ]
+  }

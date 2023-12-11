@@ -1,0 +1,32 @@
+{
+    "jobs": [
+      {
+        "title": "Software Engineer",
+        "company": "TechCorp",
+        "location": "San Francisco",
+        "details": {
+          "experienceRequired": "3+ years",
+          "salaryRange": "$90,000 - $120,000"
+        }
+      },
+      {
+        "title": "Marketing Specialist",
+        "company": "AdvertiseMasters",
+        "location": "New York",
+        "details": {
+          "experienceRequired": "2+ years",
+          "salaryRange": "$80,000 - $100,000"
+        }
+      },
+      {
+        "title": "Data Analyst",
+        "company": "DataTech",
+        "location": "London",
+        "details": {
+          "experienceRequired": "1+ years",
+          "salaryRange": "$70,000 - $90,000"
+        }
+      }
+    ]
+  }
+  

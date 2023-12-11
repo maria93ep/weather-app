@@ -1,0 +1,31 @@
+{
+  "weather": [
+    {
+      "city": "New York",
+      "temperature": 22,
+      "condition": "Partly Cloudy",
+      "details": {
+        "humidity": 60,
+        "windSpeed": 10
+      }
+    },
+    {
+      "city": "Tokyo",
+      "temperature": 28,
+      "condition": "Sunny",
+      "details": {
+        "humidity": 45,
+        "windSpeed": 8
+      }
+    },
+    {
+      "city": "London",
+      "temperature": 18,
+      "condition": "Rainy",
+      "details": {
+        "humidity": 75,
+        "windSpeed": 12
+      }
+    }
+  ]
+}
