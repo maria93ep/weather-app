@@ -1,0 +1,50 @@
+ body {
+        background-image: url('images/img.png');
+        background-size: cover;
+        background-position: center;
+        height: 100vh;
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        font-family: Arial, sans-serif;
+    }
+
+
+h2 {
+    text-align: center;
+    color: rgb(26, 147, 218);
+}
+h3{ padding:20px;
+    text-align:center;
+    color: grey;
+    }
+.container {
+    text-align: center;
+}
+
+
+#city-input {
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 16px;
+    text-align: center;
+    color:rgb(44, 74, 194)
+}
+
+.center-button {
+    padding:12px;
+    font-size: 16px;
+    color:rgb(24, 67, 194)
+    margin-top: 10px;  
+}
+
+.weather-container {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 24px;
+}
+.footer{
+    padding: 10px;
+}
