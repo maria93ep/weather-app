@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="weather-container">
+        <h2>SkyInsight</h2> 
+        <h3> With our simple and efficient weather app, you can quickly get weather information for any city. Whether you want to know how warm it will be in the coming days or what the current weather is like in a specific location, just enter the city, and you'll receive detailed data.</h3>
+        <form id="city-form" class="center-form">
+            <label for="city-input" class="insert-city">Insert City:</label> 
+            <input type="text" id="city-input" required>
+            <button class="center-button" type="submit">Search</button>
+        </form>
+        <div id="weather-card" class="hidden">
+        </div>
+    </div>
+<footer>
+    <p>&copy; 2023</p>
+</footer>
+    <script src="script.js"></script>
+</body>
+</html>
